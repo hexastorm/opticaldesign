@@ -1,7 +1,7 @@
 # Optical design
 Numerical and analytical model used for building a Hexastorm.
 The analytical model is contained in analytical.py
-The numerical model is contained in numerical.py.
+The numerical model is contained in simulation.py.
 The article where the model and the technology for the Hexastorm is outlined is available here; 
 http://reprap.org/wiki/Transparent_polygon_scanner.
 A presentation on the technology is available here;
