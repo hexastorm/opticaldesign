@@ -7,6 +7,6 @@ A presentation on the technology is available [here](https://www.youtube.com/wat
 The Zemax lens is contained in zmax_49332ink.zmx. Installation info for Rayopt is available [here](https://github.com/jordens/rayopt).
 Note that the glass and stock catalogs need to be grabbed from the Windows installation to parse the lens data. The program also works under Linux.
 # Links
-[Official site](https://www.hexastorm.com/)
-[Hackaday page](https://hackaday.io/project/21933-open-hardware-transparent-polygon-scanner)
-[Reprap article](https://reprap.org/wiki/Transparent_Polygon_Scanning)
+[Official site](https://www.hexastorm.com/) <br>
+[Hackaday page](https://hackaday.io/project/21933-open-hardware-transparent-polygon-scanner) <br>
+[Reprap article](https://reprap.org/wiki/Transparent_Polygon_Scanning) <br>
