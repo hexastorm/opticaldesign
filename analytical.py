@@ -53,7 +53,7 @@ print("The maximum transversal focus shift is "+str(dispmax)+" mm.")
 #  --> dy/dt=dy/dx(x(t))*c 
 sdisp=diff(expr,x)
 
-print("The speed at the edges is "+str(round(sdisp.evalf(subs={x:utilt})/100*speed))+ " m/s.")
+print("The speed at the edges is "+str(round(sdisp.evalf(subs={x:utilt})/1000*speed))+ " m/s.")
 # fractional speed
 fraction=sdisp.evalf(subs={x:0})/sdisp.evalf(subs={x:utilt})
 print("The speed at the center is "+str(round(fraction*100,2))+" %"+" of the speed at the edges.")
